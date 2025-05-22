@@ -1,7 +1,7 @@
 📈 Adidas US Sales Dashboard (Excel)
 This Excel dashboard provides a dynamic and visually rich analysis of Adidas sales data across the United States. Built entirely in Excel, it uses PivotTables, slicers, and custom charts to help users explore key business insights with ease.
 
-[Adidas Dashboard](https://github.com/AhmedElamin20/Adidas-US-sales/blob/main/Screenshot%20(49).png)
+![Adidas US Sales Dashboard](https://github.com/AhmedElamin20/Adidas-US-sales/raw/main/Screenshot%20(49).png)
 
 🔍 Features:
 Total Sales: $89,990,213
